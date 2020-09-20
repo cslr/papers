@@ -1,0 +1,7 @@
+*.txt filter=git-crypt diff=git-crypt
+*.tex filter=git-crypt diff=git-crypt
+*.bib filter=git-crypt diff=git-crypt
+*.ps filter=git-crypt diff=git-crypt
+*.dvi filter=git-crypt diff=git-crypt
+*.pdf filter=git-crypt diff=git-crypt
+
