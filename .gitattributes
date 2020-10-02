@@ -5,4 +5,4 @@
 *.dvi filter=git-crypt diff=git-crypt
 *.pdf filter=git-crypt diff=git-crypt
 *.sh  filter=git-crypt diff=git-crypt
-
+*.tm  filter=git-crypt diff=git-crypt
